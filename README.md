@@ -6,6 +6,8 @@ Nhập mật khẩu được cung cấp để mở bộ đề. Có thể chọn 
 
 **Liên hệ nhận mật khẩu truy cập:** [trumxuquang@gmail.com](mailto:trumxuquang@gmail.com)
 
+![Ảnh minh họa bộ đề Claude](./vidu.png)
+
 ## Các bộ đề
 
 ```text
